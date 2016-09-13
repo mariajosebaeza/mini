@@ -1,0 +1,44 @@
+.fondo1{
+	background-color: #FFFF66;
+	width: 1270px;
+	height: 500px;
+}
+.deco-none{
+	text-decoration: none;
+	color: #FFFFCC;
+	text-align: center;
+}
+.nav1 {
+	color:black;	
+}
+.ulnav1{
+	list-style: none;
+	font-family: "Roboto"
+	margin-top 10px;
+	margin-left: 10px;
+}
+.menu1 {
+	display: inline-block;
+}
+.fondo2 {
+	background-color: black gray;
+	width: 1270px;
+	height: 600px; 
+}
+.button {
+	margin-top: 40px;
+	margin-left: 40px;
+	padding: 8px 6px 8px 6px;
+	border-radius: 10%;
+	background-color: black;
+	color: yellow;
+}
+.button:hover {
+	background: #365D9D;
+  	color: #FFFFFF;
+ }
+.text1 {
+	text-align: center;
+	margin-top: 95px;
+	font-family: "Roboto"; 
+}
