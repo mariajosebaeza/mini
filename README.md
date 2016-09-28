@@ -2,7 +2,7 @@
 ##### Este proyecto tiene una descripcion en __markdown__ 
 #### Este proyecto hace: 
 
-* 	Clona los *proyecto* de las estudiantes
+* 	Clona los *proyectos* de las estudiantes
 *	abre las gh-pages automaticamente 
 *	revisa que repositorios remotos existan 
 
